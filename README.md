@@ -1,4 +1,4 @@
-## Code and data for Wispinski et al. (2020)
+# Code and data for Wispinski et al. (2020)
 
 Wispinski, N.J., Lin, S., Enns, J.T., & Chapman, C.S. (2020). Selective attention to real-world objects drives their emotional appraisal. *Attention, Perception, & Psychophysics*. https://doi.org/10.3758/s13414-020-02177-x.
 
@@ -6,11 +6,11 @@ This project consists of two experiments which aimed to measure the impact of at
 
 These data and code (along with pre-registration and videos of the task), are also available at https://osf.io/iyd9s/.
 
-# Prerequisites
+## Prerequisites
 
 This code is written to be compatible with MATLAB 2018a.
 
-# Data
+## Data
 
 Data
  - Contains a .mat file for each participant
@@ -22,7 +22,7 @@ Data
  - data_struct.matData contains trial-by-trial behavioural measures (variables described in .m analysis scripts)
  - data_struct.newFDA contains space-normalized (100 points per trial) reach trajectories for each trial (see [Gallivan & Chapman, 2014](https://www.frontiersin.org/articles/10.3389/fnins.2014.00215/full) for trajectory analysis methods)
 
-# Code
+## Code
 
 Study1_Analysis_Feb2019.m
  - Analyses Study 1 (OD* files) for effect of attentional condition on affective ratings
