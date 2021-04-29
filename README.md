@@ -1,6 +1,6 @@
-# Code and data for Wispinski et al. (2020)
+# Code and data for Wispinski et al. (2021)
 
-Wispinski, N.J., Lin, S., Enns, J.T., & Chapman, C.S. (2020). Selective attention to real-world objects drives their emotional appraisal. *Attention, Perception, & Psychophysics*. https://doi.org/10.3758/s13414-020-02177-x.
+Wispinski, N.J., Lin, S., Enns, J.T., & Chapman, C.S. (2021). Selective attention to real-world objects drives their emotional appraisal. *Attention, Perception, & Psychophysics*. https://doi.org/10.3758/s13414-020-02177-x.
 
 This project consists of two experiments which aimed to measure the impact of attention and action on affective evaluation.
 
